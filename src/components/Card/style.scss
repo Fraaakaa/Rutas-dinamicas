@@ -1,0 +1,23 @@
+.linker{
+    text-decoration: none;
+    color: black;
+    .cardGrapper{
+        background-color: blueviolet;
+        width: 200px;
+        height: 100px;
+        padding-left: 20px;
+        padding-top: 20px;
+        
+        margin-bottom: 50px;
+        margin-top: 50px;
+    
+        border-radius: 10px;
+    
+        .title{
+            font-weight: 500;
+            font-size: 1.2rem;
+    
+            margin-bottom: 10px;
+        }
+    }
+}

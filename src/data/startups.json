@@ -1,0 +1,13 @@
+[{
+    "name": "Milanesas",
+    "desc": "Que ricas que son las milanesas",
+    "enlace": "/milanesas",
+    "type": "comida"
+    
+  },
+  {
+    "name": "Manteca",
+    "desc": "Mmm grasas saturadas",
+    "enlace": "/manteca",
+    "type": "comida"
+  }]
